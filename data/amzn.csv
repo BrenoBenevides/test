@@ -1,0 +1,146 @@
+,name,full_name,language,description,private,url
+0,.github,amzn/.github,,,False,https://api.github.com/repos/amzn/.github
+1,ads-advanced-tools-docs,amzn/ads-advanced-tools-docs,,Code samples and supplements for the Amazon Ads advanced tools center,False,https://api.github.com/repos/amzn/ads-advanced-tools-docs
+2,ads-pao-amznjs-gtm-template,amzn/ads-pao-amznjs-gtm-template,Smarty,,False,https://api.github.com/repos/amzn/ads-pao-amznjs-gtm-template
+3,alexa-coho,amzn/alexa-coho,JavaScript,Sample code for building skill adapters for Alexa Connected Home using the Lighting API,False,https://api.github.com/repos/amzn/alexa-coho
+4,alexa-skills-kit-js,amzn/alexa-skills-kit-js,, SDK and example code for building voice-enabled skills for the Amazon Echo. ,False,https://api.github.com/repos/amzn/alexa-skills-kit-js
+5,amazon-ads-advertiser-audience-normalization-sdk-py,amzn/amazon-ads-advertiser-audience-normalization-sdk-py,Python,,False,https://api.github.com/repos/amzn/amazon-ads-advertiser-audience-normalization-sdk-py
+6,amazon-advertising-api-php-sdk,amzn/amazon-advertising-api-php-sdk,PHP,⛔️ DEPRECATED - Amazon Advertising API PHP Client Library,False,https://api.github.com/repos/amzn/amazon-advertising-api-php-sdk
+7,amazon-codeguru-profiler-for-spark,amzn/amazon-codeguru-profiler-for-spark,Java,A Spark plugin for CPU and memory profiling,False,https://api.github.com/repos/amzn/amazon-codeguru-profiler-for-spark
+8,amazon-frustration-free-setup-certification-tool,amzn/amazon-frustration-free-setup-certification-tool,Python,Python-based automation scripts which can run device provisioning performance test,False,https://api.github.com/repos/amzn/amazon-frustration-free-setup-certification-tool
+9,amazon-hub-counter-api-docs,amzn/amazon-hub-counter-api-docs,CSS,,False,https://api.github.com/repos/amzn/amazon-hub-counter-api-docs
+10,amazon-hub-counter-api-samples,amzn/amazon-hub-counter-api-samples,Java,,False,https://api.github.com/repos/amzn/amazon-hub-counter-api-samples
+11,amazon-hub-counter-sdk-java,amzn/amazon-hub-counter-sdk-java,Java,The Amazon Hub Counter SDK for Java enables Java developers to easily work with the Amazon Hub Counter API and manage Amazon pickup locations.,False,https://api.github.com/repos/amzn/amazon-hub-counter-sdk-java
+12,amazon-hub-support,amzn/amazon-hub-support,PowerShell,,False,https://api.github.com/repos/amzn/amazon-hub-support
+13,amazon-instant-access-sdk-java,amzn/amazon-instant-access-sdk-java,Java,Java SDK to aid in 3p integration with Instant Access ,False,https://api.github.com/repos/amzn/amazon-instant-access-sdk-java
+14,amazon-instant-access-sdk-net,amzn/amazon-instant-access-sdk-net,C#,Amazon Instant Access .Net SDK,False,https://api.github.com/repos/amzn/amazon-instant-access-sdk-net
+15,amazon-instant-access-sdk-php,amzn/amazon-instant-access-sdk-php,PHP,PHP SDK to aid in 3p integration with Instant Access ,False,https://api.github.com/repos/amzn/amazon-instant-access-sdk-php
+16,amazon-instant-access-sdk-ruby,amzn/amazon-instant-access-sdk-ruby,Ruby,Ruby SDK to aid in third-party integration with Instant Access,False,https://api.github.com/repos/amzn/amazon-instant-access-sdk-ruby
+17,amazon-launcher-integration-cordova-plugin,amzn/amazon-launcher-integration-cordova-plugin,JavaScript,"The Cordova plugin for Fire TV Launcher Integration makes it possible to integrate your HTML5 webapp with the Fire TV launcher. After integrating with the Fire TV Catalog, this plugin enables users to launch content in your app directly from search.",False,https://api.github.com/repos/amzn/amazon-launcher-integration-cordova-plugin
+18,amazon-marketing-stream-examples,amzn/amazon-marketing-stream-examples,Python,Amazon Marketing Stream reference implementation using AWS CDK,False,https://api.github.com/repos/amzn/amazon-marketing-stream-examples
+19,amazon-mcf-plugin-for-magento-1,amzn/amazon-mcf-plugin-for-magento-1,PHP,Plugin code to enable Amazon MCF in Magento 1.,False,https://api.github.com/repos/amzn/amazon-mcf-plugin-for-magento-1
+20,amazon-multi-token-completion,amzn/amazon-multi-token-completion,Python,,False,https://api.github.com/repos/amzn/amazon-multi-token-completion
+21,amazon-nearest-neighbor-through-ecc,amzn/amazon-nearest-neighbor-through-ecc,Jupyter Notebook,,False,https://api.github.com/repos/amzn/amazon-nearest-neighbor-through-ecc
+22,amazon-pay-api-sdk-dotnet,amzn/amazon-pay-api-sdk-dotnet,C#,Amazon Pay API SDK (.NET),False,https://api.github.com/repos/amzn/amazon-pay-api-sdk-dotnet
+23,amazon-pay-api-sdk-java,amzn/amazon-pay-api-sdk-java,Java,Amazon Pay API SDK (Java),False,https://api.github.com/repos/amzn/amazon-pay-api-sdk-java
+24,amazon-pay-api-sdk-nodejs,amzn/amazon-pay-api-sdk-nodejs,JavaScript,Amazon Pay API SDK (Node.js),False,https://api.github.com/repos/amzn/amazon-pay-api-sdk-nodejs
+25,amazon-pay-api-sdk-php,amzn/amazon-pay-api-sdk-php,PHP,Amazon Pay API SDK (PHP),False,https://api.github.com/repos/amzn/amazon-pay-api-sdk-php
+26,amazon-pay-sdk-csharp,amzn/amazon-pay-sdk-csharp,C#,Amazon Pay C# SDK,False,https://api.github.com/repos/amzn/amazon-pay-sdk-csharp
+27,amazon-pay-sdk-java,amzn/amazon-pay-sdk-java,Java, Amazon Pay Java SDK,False,https://api.github.com/repos/amzn/amazon-pay-sdk-java
+28,amazon-pay-sdk-php,amzn/amazon-pay-sdk-php,PHP,Amazon Pay PHP SDK,False,https://api.github.com/repos/amzn/amazon-pay-sdk-php
+29,amazon-pay-sdk-python,amzn/amazon-pay-sdk-python,Python,Amazon Pay Python SDK,False,https://api.github.com/repos/amzn/amazon-pay-sdk-python
+30,amazon-pay-sdk-ruby,amzn/amazon-pay-sdk-ruby,Ruby,Amazon Pay Ruby SDK ,False,https://api.github.com/repos/amzn/amazon-pay-sdk-ruby
+31,amazon-pay-sdk-samples,amzn/amazon-pay-sdk-samples,PHP,Amazon Pay SDK Sample Code,False,https://api.github.com/repos/amzn/amazon-pay-sdk-samples
+32,amazon-payment-files-tools,amzn/amazon-payment-files-tools,Kotlin,Development kit designed to assist with the process of generating and validating proper dispute and remittance files.,False,https://api.github.com/repos/amzn/amazon-payment-files-tools
+33,amazon-payments-magento-2-plugin,amzn/amazon-payments-magento-2-plugin,PHP,Extension to enable Amazon Pay on Magento 2,False,https://api.github.com/repos/amzn/amazon-payments-magento-2-plugin
+34,amazon-ray,amzn/amazon-ray,Python,Staging area for ongoing enhancements to Ray focused on improving integration with AWS and other Amazon technologies.,False,https://api.github.com/repos/amzn/amazon-ray
+35,amazon-s3-gst-plugin,amzn/amazon-s3-gst-plugin,C,A collection of Amazon S3 GStreamer elements.,False,https://api.github.com/repos/amzn/amazon-s3-gst-plugin
+36,amazon-sidewalk-android-samples,amzn/amazon-sidewalk-android-samples,Kotlin,Sidewalk Mobile SDK is for mobile developers who want to build customized Sidewalk applications.,False,https://api.github.com/repos/amzn/amazon-sidewalk-android-samples
+37,amazon-sidewalk-ios-samples,amzn/amazon-sidewalk-ios-samples,Swift,Sidewalk Mobile SDK is for mobile developers who want to build customized Sidewalk applications. ,False,https://api.github.com/repos/amzn/amazon-sidewalk-ios-samples
+38,amazon-succinct-doc-representation,amzn/amazon-succinct-doc-representation,Python,,False,https://api.github.com/repos/amzn/amazon-succinct-doc-representation
+39,amazon-template-library,amzn/amazon-template-library,C++,A collection of general purpose C++ utilities that play well with the Standard Library and Boost.,False,https://api.github.com/repos/amzn/amazon-template-library
+40,amazon-weak-ner-needle,amzn/amazon-weak-ner-needle,Python,Named Entity Recognition with Small Strongly Labeled and Large Weakly Labeled Data,False,https://api.github.com/repos/amzn/amazon-weak-ner-needle
+41,amigitenough,amzn/amigitenough,Go,,False,https://api.github.com/repos/amzn/amigitenough
+42,amzn-drivers,amzn/amzn-drivers,C,Official AWS drivers repository for Elastic Network Adapter (ENA) and Elastic Fabric Adapter (EFA),False,https://api.github.com/repos/amzn/amzn-drivers
+43,amzn-ec2-ena-utilities,amzn/amzn-ec2-ena-utilities,Python,,False,https://api.github.com/repos/amzn/amzn-ec2-ena-utilities
+44,auction-gym,amzn/auction-gym,Jupyter Notebook,AuctionGym is a simulation environment that enables reproducible evaluation of bandit and reinforcement learning methods for online advertising auctions.,False,https://api.github.com/repos/amzn/auction-gym
+45,autotrail,amzn/autotrail,Python,"AutoTrail is a highly modular, partial automation workflow engine providing run time execution control",False,https://api.github.com/repos/amzn/autotrail
+46,aws-apigateway-client-lib,amzn/aws-apigateway-client-lib,,,False,https://api.github.com/repos/amzn/aws-apigateway-client-lib
+47,aws-sigv4-signing-samples,amzn/aws-sigv4-signing-samples,Java,This package contains sample code demonstrating SigV4 signing using AWS Java SDK.,False,https://api.github.com/repos/amzn/aws-sigv4-signing-samples
+48,awsssmchaosrunner,amzn/awsssmchaosrunner,Kotlin,Amazon's light-weight library for chaos engineering on AWS. It can be used for EC2 and ECS (with EC2 launch type).,False,https://api.github.com/repos/amzn/awsssmchaosrunner
+49,basis-point-sets,amzn/basis-point-sets,Python,,False,https://api.github.com/repos/amzn/basis-point-sets
+50,buy-with-prime-automate-tenant-validation,amzn/buy-with-prime-automate-tenant-validation,JavaScript,,False,https://api.github.com/repos/amzn/buy-with-prime-automate-tenant-validation
+51,buy-with-prime-event-accelerator,amzn/buy-with-prime-event-accelerator,Python,,False,https://api.github.com/repos/amzn/buy-with-prime-event-accelerator
+52,buy-with-prime-oauth-handler-ec2,amzn/buy-with-prime-oauth-handler-ec2,JavaScript,,False,https://api.github.com/repos/amzn/buy-with-prime-oauth-handler-ec2
+53,buy-with-prime-saas-integration,amzn/buy-with-prime-saas-integration,TypeScript,,False,https://api.github.com/repos/amzn/buy-with-prime-saas-integration
+54,chalet-charging-location-for-electric-trucks,amzn/chalet-charging-location-for-electric-trucks,Python,Optimization tool to identify charging locations for electric trucks,False,https://api.github.com/repos/amzn/chalet-charging-location-for-electric-trucks
+55,computer-vision-basics-in-microsoft-excel,amzn/computer-vision-basics-in-microsoft-excel,,Computer Vision Basics in Microsoft Excel (using just formulas),False,https://api.github.com/repos/amzn/computer-vision-basics-in-microsoft-excel
+56,confident-sinkhorn-allocation,amzn/confident-sinkhorn-allocation,Jupyter Notebook,Pseudo-labeling for tabular data,False,https://api.github.com/repos/amzn/confident-sinkhorn-allocation
+57,convolutional-handwriting-gan,amzn/convolutional-handwriting-gan,Python,ScrabbleGAN: Semi-Supervised Varying Length Handwritten Text Generation (CVPR20),False,https://api.github.com/repos/amzn/convolutional-handwriting-gan
+58,cosearcher,amzn/cosearcher,Python,,False,https://api.github.com/repos/amzn/cosearcher
+59,credence-to-causal-estimation,amzn/credence-to-causal-estimation,Python,A framework for generating complex and realistic datasets for use in evaluating causal inference methods.,False,https://api.github.com/repos/amzn/credence-to-causal-estimation
+60,data-jack-knife,amzn/data-jack-knife,Java,,False,https://api.github.com/repos/amzn/data-jack-knife
+61,debiased-balanced-interleaving,amzn/debiased-balanced-interleaving,Jupyter Notebook,,False,https://api.github.com/repos/amzn/debiased-balanced-interleaving
+62,differential-privacy-bayesian-optimization,amzn/differential-privacy-bayesian-optimization,Python,"This repo contains the underlying code for all the experiments from the paper: ""Automatic Discovery of Privacy-Utility Pareto Fronts""",False,https://api.github.com/repos/amzn/differential-privacy-bayesian-optimization
+63,distance-assistant,amzn/distance-assistant,Python,Pedestrian monitor that provides visual feedback to help ensure proper social distancing guidelines are being observed,False,https://api.github.com/repos/amzn/distance-assistant
+64,drs-sample-android-app,amzn/drs-sample-android-app,Java,ARCHIVED: A sample DRS companion application demonstrating how to use LWA and DRS API endpoints. ,False,https://api.github.com/repos/amzn/drs-sample-android-app
+65,drs-sample-ios-app,amzn/drs-sample-ios-app,Objective-C,ARCHIVED: A sample DRS companion application demonstrating how to use LWA and DRS API endpoints. ,False,https://api.github.com/repos/amzn/drs-sample-ios-app
+66,emukit-playground,amzn/emukit-playground,JavaScript,A web page explaining concepts of statistical emulation and making decisions under uncertainty in an interactive way. ,False,https://api.github.com/repos/amzn/emukit-playground
+67,eslint-plugin-no-date-parsing,amzn/eslint-plugin-no-date-parsing,TypeScript,Disallow string parsing with new Date and Date.parse.,False,https://api.github.com/repos/amzn/eslint-plugin-no-date-parsing
+68,exoplayer-amazon-port,amzn/exoplayer-amazon-port,Java,Official port of ExoPlayer for Amazon devices,False,https://api.github.com/repos/amzn/exoplayer-amazon-port
+69,explainable-text-vqa,amzn/explainable-text-vqa,,,False,https://api.github.com/repos/amzn/explainable-text-vqa
+70,faithful-data2text-cycle-training,amzn/faithful-data2text-cycle-training,Python,,False,https://api.github.com/repos/amzn/faithful-data2text-cycle-training
+71,fashion-attribute-disentanglement,amzn/fashion-attribute-disentanglement,Python,,False,https://api.github.com/repos/amzn/fashion-attribute-disentanglement
+72,fire-app-builder,amzn/fire-app-builder,Java,"Fire App Builder is a framework for building java media apps for Fire TV, allowing you to add your feed of media content to a configuration file and build an app to browse and play it quickly.",False,https://api.github.com/repos/amzn/fire-app-builder
+73,firetv-sample-touch-app,amzn/firetv-sample-touch-app,Java,This sample Android project demonstrates how to build the main UI of a Fire TV application in order to support both Touch interactions and Remote D-Pad controls.,False,https://api.github.com/repos/amzn/firetv-sample-touch-app
+74,ftv-livetv-sample-tv-app,amzn/ftv-livetv-sample-tv-app,Java,,False,https://api.github.com/repos/amzn/ftv-livetv-sample-tv-app
+75,gameon-sample-game-unity,amzn/gameon-sample-game-unity,C#,This sample game showcases how GameOn APIs can be integrated into the Unity Game Engine. It includes art assets as well as code that could be executed and built directly using the Unity Game Engine.,False,https://api.github.com/repos/amzn/gameon-sample-game-unity
+76,gameon-starter-kit-unity,amzn/gameon-starter-kit-unity,C#,"With the GameOn Unity Starter Kit, Unity game developers can easily test out all the endpoints that GameOn Game API provides before even integrating them in their game client. It also provides an avenue for us to showcase best practices while calling the GameOn API.",False,https://api.github.com/repos/amzn/gameon-starter-kit-unity
+77,git-commit-template,amzn/git-commit-template,JavaScript,Set commit templates for git,False,https://api.github.com/repos/amzn/git-commit-template
+78,glad,amzn/glad,JavaScript,Generate Layer Diagram from your Javascript/Typescript app,False,https://api.github.com/repos/amzn/glad
+79,golang-gitoperations,amzn/golang-gitoperations,Go,,False,https://api.github.com/repos/amzn/golang-gitoperations
+80,halo-third-party-sdk-for-java,amzn/halo-third-party-sdk-for-java,Java,⛔️ DEPRECATED - The Halo Third Party SDK for Java makes it easier for you to verify events and allows you to spend more time on implementing features and less on writing boiler-plate code.,False,https://api.github.com/repos/amzn/halo-third-party-sdk-for-java
+81,halo-third-party-sdk-for-node-js,amzn/halo-third-party-sdk-for-node-js,TypeScript,⛔️ DEPRECATED - The Halo Third Party SDK for Node.js makes it easier for you to verify events and allows you to spend more time on implementing features and less on writing boiler-plate code.,False,https://api.github.com/repos/amzn/halo-third-party-sdk-for-node-js
+82,halo-third-party-sdk-for-python,amzn/halo-third-party-sdk-for-python,Python,⛔️ DEPRECATED - The Halo Third Party SDK for Python makes it easier for you to verify events and allows you to spend more time on implementing features and less on writing boiler-plate code.,False,https://api.github.com/repos/amzn/halo-third-party-sdk-for-python
+83,hawktracer,amzn/hawktracer,C++,"HawkTracer is a highly portable, low-overhead, configurable profiling tool built in Amazon Video for getting performance metrics from low-end devices.",False,https://api.github.com/repos/amzn/hawktracer
+84,image-misspell-coling2020,amzn/image-misspell-coling2020,,"This repository releases the Image-MisSpell Dataset as part of the COLING 2020 paper ""Misspelling Detection from Noisy Product Images""",False,https://api.github.com/repos/amzn/image-misspell-coling2020
+85,image-to-recipe-transformers,amzn/image-to-recipe-transformers,Python,Code for CVPR 2021 paper: Revamping Cross-Modal Recipe Retrieval with Hierarchical Transformers and Self-supervised Learning,False,https://api.github.com/repos/amzn/image-to-recipe-transformers
+86,ion-object-mapper-dotnet,amzn/ion-object-mapper-dotnet,C#,,False,https://api.github.com/repos/amzn/ion-object-mapper-dotnet
+87,jekyll-doc-project,amzn/jekyll-doc-project,HTML,This repository contains an open-source Jekyll theme for authoring and publishing technical documentation. This theme is used by Appstore/Alexa tech writers and other community members. Most of the theme's files are stored in a Ruby Gem (called jekyll-doc-project).,False,https://api.github.com/repos/amzn/jekyll-doc-project
+88,kqr,amzn/kqr,,,False,https://api.github.com/repos/amzn/kqr
+89,login-with-amazon-oscommerce,amzn/login-with-amazon-oscommerce,PHP,A pre-integrated plugin that can be installed into an osCommerce powered website to integrate with Login with Amazon.,False,https://api.github.com/repos/amzn/login-with-amazon-oscommerce
+90,login-with-amazon-wordpress,amzn/login-with-amazon-wordpress,PHP, A pre-integrated plugin that can be installed into a Wordpress powered website to integrate with Login with Amazon.,False,https://api.github.com/repos/amzn/login-with-amazon-wordpress
+91,merlin-on-demand-callgraph,amzn/merlin-on-demand-callgraph,JavaScript,Experimental prototype for precise and scalable call graph construction for JavaScript using Synchronized Push-Down Systems,False,https://api.github.com/repos/amzn/merlin-on-demand-callgraph
+92,metalearn-leap,amzn/metalearn-leap,Python,Original PyTorch implementation of the Leap meta-learner (https://arxiv.org/abs/1812.01054) along with code for running the Omniglot experiment presented in the paper.,False,https://api.github.com/repos/amzn/metalearn-leap
+93,milan,amzn/milan,Scala,"Milan is a Scala API and runtime infrastructure for building data-oriented systems, built on top of Apache Flink.",False,https://api.github.com/repos/amzn/milan
+94,multiconer-baseline,amzn/multiconer-baseline,Python,,False,https://api.github.com/repos/amzn/multiconer-baseline
+95,multilingual-keyphrase-generation,amzn/multilingual-keyphrase-generation,Python,,False,https://api.github.com/repos/amzn/multilingual-keyphrase-generation
+96,multimodal-affinities,amzn/multimodal-affinities,Python,"Official implementation code accompanying the paper: ""Learning Multimodal Affinities for Textual Editing in Images"".",False,https://api.github.com/repos/amzn/multimodal-affinities
+97,MXFusion,amzn/MXFusion,Python,Modular Probabilistic Programming on MXNet,False,https://api.github.com/repos/amzn/MXFusion
+98,nimbus-jose-jwt_aws-kms-extension,amzn/nimbus-jose-jwt_aws-kms-extension,Java,This library package is an extension of nimbus-jose-jwt library. It provides JWE based encrypters/decrypters and JWS based signers/verifiers for doing operations with cryptographic keys stores in AWS KMS.,False,https://api.github.com/repos/amzn/nimbus-jose-jwt_aws-kms-extension
+99,node-jose_aws-kms-extension,amzn/node-jose_aws-kms-extension,TypeScript,,False,https://api.github.com/repos/amzn/node-jose_aws-kms-extension
+100,openapi-swift-code-generate,amzn/openapi-swift-code-generate,Swift,,False,https://api.github.com/repos/amzn/openapi-swift-code-generate
+101,orthogonal-additive-gaussian-processes,amzn/orthogonal-additive-gaussian-processes,Python,Light-weighted code for Orthogonal Additive Gaussian Processes ,False,https://api.github.com/repos/amzn/orthogonal-additive-gaussian-processes
+102,oss-attribution-builder,amzn/oss-attribution-builder,TypeScript,"The OSS Attribution Builder is a website that helps teams create attribution documents (notices, ""open source screens"", credits, etc) commonly found in software products.",False,https://api.github.com/repos/amzn/oss-attribution-builder
+103,oss-contribution-tracker,amzn/oss-contribution-tracker,TypeScript,Track contributions made to external projects and manage CLAs,False,https://api.github.com/repos/amzn/oss-contribution-tracker
+104,oss-dashboard,amzn/oss-dashboard,Ruby,A dashboard for viewing many GitHub organizations at once.,False,https://api.github.com/repos/amzn/oss-dashboard
+105,pecos,amzn/pecos,Python,PECOS - Prediction for Enormous and Correlated Spaces,False,https://api.github.com/repos/amzn/pecos
+106,pretraining-or-self-training,amzn/pretraining-or-self-training,Python,"Codebase for the paper ""Rethinking Semi-supervised Learning with Language Models""",False,https://api.github.com/repos/amzn/pretraining-or-self-training
+107,python-jose_aws-kms-extension,amzn/python-jose_aws-kms-extension,Python,,False,https://api.github.com/repos/amzn/python-jose_aws-kms-extension
+108,rdma-core,amzn/rdma-core,C,RDMA core userspace libraries and daemons,False,https://api.github.com/repos/amzn/rdma-core
+109,refuel-open-domain-qa,amzn/refuel-open-domain-qa,Python,,False,https://api.github.com/repos/amzn/refuel-open-domain-qa
+110,rete-thewebconf-2022,amzn/rete-thewebconf-2022,Python,,False,https://api.github.com/repos/amzn/rete-thewebconf-2022
+111,rheoceros,amzn/rheoceros,Python,Cloud-based AI / ML workflow and data application development framework,False,https://api.github.com/repos/amzn/rheoceros
+112,robotiq-gripper-interface,amzn/robotiq-gripper-interface,C++,,False,https://api.github.com/repos/amzn/robotiq-gripper-interface
+113,sample-fire-tv-app-video-skill,amzn/sample-fire-tv-app-video-skill,Java,"This sample Fire TV app shows how to integrate an Alexa video skill in a simple, basic way. ",False,https://api.github.com/repos/amzn/sample-fire-tv-app-video-skill
+114,selling-partner-api-docs,amzn/selling-partner-api-docs,HTML,This repository contains documentation for developers to use to call Selling Partner APIs.,False,https://api.github.com/repos/amzn/selling-partner-api-docs
+115,selling-partner-api-models,amzn/selling-partner-api-models,Java,This repository contains OpenAPI models for developers to use when developing software to call Selling Partner APIs.,False,https://api.github.com/repos/amzn/selling-partner-api-models
+116,selling-partner-api-samples,amzn/selling-partner-api-samples,Java,Sample code for Amazon Selling Partner API use cases,False,https://api.github.com/repos/amzn/selling-partner-api-samples
+117,seqzero,amzn/seqzero,Python,,False,https://api.github.com/repos/amzn/seqzero
+118,service-model-swift-code-generate,amzn/service-model-swift-code-generate,Swift,Modular code generator to generate Swift applications from service models.,False,https://api.github.com/repos/amzn/service-model-swift-code-generate
+119,sketch-constructor,amzn/sketch-constructor,JavaScript,Read/write/manipulate Sketch files in Node without Sketch plugins!,False,https://api.github.com/repos/amzn/sketch-constructor
+120,smoke-aws,amzn/smoke-aws,Swift,AWS services integration for the Smoke Framework,False,https://api.github.com/repos/amzn/smoke-aws
+121,smoke-aws-credentials,amzn/smoke-aws-credentials,Swift,A library to obtain and assume automatically rotating AWS IAM roles written in the Swift programming language.,False,https://api.github.com/repos/amzn/smoke-aws-credentials
+122,smoke-aws-generate,amzn/smoke-aws-generate,Swift,Code generator to generate the SmokeAWS library from service models.,False,https://api.github.com/repos/amzn/smoke-aws-generate
+123,smoke-aws-support,amzn/smoke-aws-support,Swift,,False,https://api.github.com/repos/amzn/smoke-aws-support
+124,smoke-dynamodb,amzn/smoke-dynamodb,Swift,"SmokeDynamoDB is a library to make it easy to use DynamoDB from Swift-based applications, with a particular focus on usage with polymorphic database tables (tables that do not have a single schema for all rows).",False,https://api.github.com/repos/amzn/smoke-dynamodb
+125,smoke-framework,amzn/smoke-framework,Swift,A light-weight server-side service framework written in the Swift programming language.,False,https://api.github.com/repos/amzn/smoke-framework
+126,smoke-framework-application-generate,amzn/smoke-framework-application-generate,Swift,Code generator to generate SmokeFramework-based applications from service models.,False,https://api.github.com/repos/amzn/smoke-framework-application-generate
+127,smoke-framework-examples,amzn/smoke-framework-examples,Swift,Sample applications showing the usage of the SmokeFramework and related libraries.,False,https://api.github.com/repos/amzn/smoke-framework-examples
+128,smoke-http,amzn/smoke-http,Swift,Specialised HTTP Client for service operations abstracted from the HTTP protocol.,False,https://api.github.com/repos/amzn/smoke-http
+129,sparse-vqvae,amzn/sparse-vqvae,Python,Experimental implementation for a sparse-dictionary based version of the VQ-VAE2 paper,False,https://api.github.com/repos/amzn/sparse-vqvae
+130,ss-aga-kgc,amzn/ss-aga-kgc,Python,,False,https://api.github.com/repos/amzn/ss-aga-kgc
+131,sto-transformer,amzn/sto-transformer,Python,,False,https://api.github.com/repos/amzn/sto-transformer
+132,style-dictionary,amzn/style-dictionary,JavaScript,A build system for creating cross-platform styles.,False,https://api.github.com/repos/amzn/style-dictionary
+133,supply-chain-simulation-environment,amzn/supply-chain-simulation-environment,Python,,False,https://api.github.com/repos/amzn/supply-chain-simulation-environment
+134,tiny-attribution-generator,amzn/tiny-attribution-generator,TypeScript,A small tool and library to create attribution notices from various formats,False,https://api.github.com/repos/amzn/tiny-attribution-generator
+135,trans-encoder,amzn/trans-encoder,Python,Trans-Encoder: Unsupervised sentence-pair modelling through self- and mutual-distillations,False,https://api.github.com/repos/amzn/trans-encoder
+136,user-satisfaction-modeling,amzn/user-satisfaction-modeling,Python,"Codebase for the paper ""Schema-guided User Satisfaction Modeling for Task-oriented Dialogues""",False,https://api.github.com/repos/amzn/user-satisfaction-modeling
+137,workspace-resolver,amzn/workspace-resolver,JavaScript,Utility for development on multiple library packages in a workspace,False,https://api.github.com/repos/amzn/workspace-resolver
+138,xfer,amzn/xfer,Python,Transfer Learning library for Deep Neural Networks.,False,https://api.github.com/repos/amzn/xfer
+139,zeek-plugin-bacnet,amzn/zeek-plugin-bacnet,Zeek,Zeek network security monitor plugin that enables parsing of the BACnet standard building controls protocol,False,https://api.github.com/repos/amzn/zeek-plugin-bacnet
+140,zeek-plugin-enip,amzn/zeek-plugin-enip,Zeek,Zeek network security monitor plugin that enables parsing of the Ethernet/IP and Common Industrial Protocol standards,False,https://api.github.com/repos/amzn/zeek-plugin-enip
+141,zeek-plugin-profinet,amzn/zeek-plugin-profinet,Zeek,Zeek network security monitor plugin that enables parsing of the Profinet protocol,False,https://api.github.com/repos/amzn/zeek-plugin-profinet
+142,zeek-plugin-s7comm,amzn/zeek-plugin-s7comm,Zeek,Zeek network security monitor plugin that enables parsing of the S7 protocol,False,https://api.github.com/repos/amzn/zeek-plugin-s7comm
+143,zeek-plugin-tds,amzn/zeek-plugin-tds,Zeek,Zeek network security monitor plugin that enables parsing of the Tabular Data Stream (TDS) protocol,False,https://api.github.com/repos/amzn/zeek-plugin-tds
+144,zero-shot-rlhr,amzn/zero-shot-rlhr,Python,,False,https://api.github.com/repos/amzn/zero-shot-rlhr
