@@ -1,0 +1,8 @@
+,name,full_name,language,description,private,url
+0,aviation_incidents,BrenoBenevides/aviation_incidents,Python,Streamlit app containing Brazillian Air Force incidents,False,https://api.github.com/repos/BrenoBenevides/aviation_incidents
+1,Data-Science,BrenoBenevides/Data-Science,Jupyter Notebook,Portfolio,False,https://api.github.com/repos/BrenoBenevides/Data-Science
+2,edc-igti-module1-deploy-challenge,BrenoBenevides/edc-igti-module1-deploy-challenge,Python,,False,https://api.github.com/repos/BrenoBenevides/edc-igti-module1-deploy-challenge
+3,oriented-programming-with-python,BrenoBenevides/oriented-programming-with-python,Python,,False,https://api.github.com/repos/BrenoBenevides/oriented-programming-with-python
+4,terraform-course-udemy,BrenoBenevides/terraform-course-udemy,HCL,,False,https://api.github.com/repos/BrenoBenevides/terraform-course-udemy
+5,test,BrenoBenevides/test,,test,False,https://api.github.com/repos/BrenoBenevides/test
+6,travis_ci_tests,BrenoBenevides/travis_ci_tests,Python,This repository contains an example on how to use Travis CI (Continuous Delivery) to screen the 'build' badge for the tests,False,https://api.github.com/repos/BrenoBenevides/travis_ci_tests
